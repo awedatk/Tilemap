@@ -211,7 +211,7 @@ TextureImporter:
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 1, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -251,7 +251,7 @@ TextureImporter:
         serializedVersion: 2
         x: 32
         y: 48
-        width: 16
+        width: 15
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -271,9 +271,9 @@ TextureImporter:
       name: tiles_3
       rect:
         serializedVersion: 2
-        x: 48
+        x: 52
         y: 48
-        width: 16
+        width: 12
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -317,7 +317,7 @@ TextureImporter:
         serializedVersion: 2
         x: 80
         y: 48
-        width: 16
+        width: 12
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -337,9 +337,9 @@ TextureImporter:
       name: tiles_6
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 32
-        width: 16
+        width: 15
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -383,7 +383,7 @@ TextureImporter:
         serializedVersion: 2
         x: 32
         y: 32
-        width: 16
+        width: 15
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -403,9 +403,9 @@ TextureImporter:
       name: tiles_9
       rect:
         serializedVersion: 2
-        x: 48
+        x: 49
         y: 32
-        width: 16
+        width: 15
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -449,7 +449,7 @@ TextureImporter:
         serializedVersion: 2
         x: 80
         y: 32
-        width: 16
+        width: 15
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -469,9 +469,9 @@ TextureImporter:
       name: tiles_12
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 16
-        width: 16
+        width: 15
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -515,7 +515,7 @@ TextureImporter:
         serializedVersion: 2
         x: 32
         y: 16
-        width: 16
+        width: 15
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -601,9 +601,9 @@ TextureImporter:
       name: tiles_18
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 0
-        width: 16
+        width: 15
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
