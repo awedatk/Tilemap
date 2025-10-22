@@ -343,6 +343,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92a1a328de5589c4b9cc07efacc1be39, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
+  jump:
+    m_Name: Jump
+    m_Type: 1
+    m_ExpectedControlType: Button
+    m_Id: 64d7d629-935c-470c-a701-ce8c9e135718
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings:
+    - m_Name: 
+      m_Id: e45157dd-d598-486b-8e66-57f921312160
+      m_Path: <Gamepad>/dpad/up
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Jump
+      m_Flags: 0
+    m_Flags: 0
 --- !u!114 &446396289
 MonoBehaviour:
   m_ObjectHideFlags: 0

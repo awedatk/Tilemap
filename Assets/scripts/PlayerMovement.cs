@@ -4,6 +4,7 @@ public class PlayerMovement : MonoBehaviour
 {
     Vector2 movementPlayer;//(1)
     Rigidbody2D rb;//(2)
+    [SerializeField] InputAction jump;
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();//(4)
